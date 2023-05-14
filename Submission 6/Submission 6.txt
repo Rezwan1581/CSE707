@@ -1,11 +1,6 @@
 Overleaf
 https://www.overleaf.com/project/645a59b165b7050712efaef8
 
-Link to unlisted YouTube video:
-https://youtu.be/_zE23kLZGZw
-
-Public link to the slide (Anyone on the internet can view without login):
-https://docs.google.com/presentation/d/1mJ50d1zuEzocNEpj173hX6BFFdIlMiM6mEMhyX7a8ng/edit#slide=id.p1
 
 Topic Name: A federative approach to explore the potential of machine learning techniques on stock price prediction
 
